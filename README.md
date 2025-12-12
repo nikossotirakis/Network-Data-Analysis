@@ -7,5 +7,5 @@ Exploratory Data Analysis (EDA) on a network traffic dataset. Includes data clea
 - Visualizations with Matplotlib and Seaborn
 - Summary of key findings and conclusions
 
-1. To get the requirements use ```git clone https://github.com/nikossotirakis/Diabetes-Data-Analysis```
+1. To get the project use ```git clone https://github.com/nikossotirakis/Diabetes-Data-Analysis```
 2. Run the command ```pip install -r requirements.txt``` to install all the packages required in your computer.
